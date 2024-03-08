@@ -1,0 +1,10 @@
+p {
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5);
+    font-size: 20px;
+    font-style: italic;
+    text-transform: capitalize;
+    line-height: 30px;
+}
+.linkyt:hover {
+    color: red;
+}
